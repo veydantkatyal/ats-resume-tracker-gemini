@@ -45,5 +45,7 @@ streamlit run app.py
 - Input the job description and upload the candidate's resume.
 - Submit to receive analysis including match percentage, missing keywords, and a profile summary.
 
+## Web App Design
+![](./images/ui.png)
 ## License
 This project is licensed under the [MIT License](https://github.com/veydantkatyal/ats-resume-tracker-gemini/blob/main/LICENSE).
